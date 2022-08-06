@@ -1,6 +1,7 @@
 # PROJECT-Unicorn-Companies-Analysis
 
-link to workplace: https://app.datacamp.com/workspace/w/3d70d15f-cb92-438a-bb1a-c5fdd7004098
+final result: https://github.com/ob-cheng/PROJECT-Unicorn-Companies-Analysis/blob/main/notebook.ipynb
+source of dataset: https://github.com/ob-cheng/PROJECT-Unicorn-Companies-Analysis/blob/main/notebook.ipynb
 
 Project Description:
 
