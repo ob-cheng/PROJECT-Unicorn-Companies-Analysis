@@ -1,6 +1,7 @@
 # PROJECT-Unicorn-Companies-Analysis
 
 link to workplace: https://app.datacamp.com/workspace/w/3d70d15f-cb92-438a-bb1a-c5fdd7004098
+
 Project Description:
 
 The task is to first identify the three best-performing industries based on the number of new unicorns created over the last three years (2019, 2020, and 2021) combined. From there, you will write a query to return the industry, the year, the number of companies in these industries that became unicorns each year in 2019, 2020, and 2021, along with the average valuation per industry per year, converted to billions of dollars and rounded to two decimal places! As the firm is interested in trends for the top-performing industries, your results should be displayed by industry, then year in descending order.
