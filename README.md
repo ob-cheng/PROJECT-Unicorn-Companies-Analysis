@@ -1,10 +1,10 @@
 # PROJECT-Unicorn-Companies-Analysis
 
-Final Work: https://github.com/ob-cheng/PROJECT-Unicorn-Companies-Analysis/blob/main/notebook.ipynb
+Final Work: https://github.com/ob-cheng/PROJECT-Unicorn-Companies-Analysis/blob/main/unicorn_analysis_notebook.ipynb
 
 Source of Dataset: https://www.cbinsights.com/research-unicorn-companies provided by *CBInsights*
 
-*I have included the complete dataset in the repository that is available to download. If you have any question, please do not hesitate to send me a message. I will response to you ASAP.*
+*I have included the complete **dataset in the repository that is available to download**. If you have any question, please do not hesitate to send me a message. I will response to you ASAP.*
 
 ## Project Description:
 
